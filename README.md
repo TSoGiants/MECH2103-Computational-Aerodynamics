@@ -24,3 +24,11 @@ Mr. Maldonado - Draft week 1 worksheet.
 Dr. F - Review and format week 1 worksheet.
 
 ALL - Evaluate CFD simulation tools, particularly: https://sim-flow.com/download/cfd-simulation-software/
+
+Suggested links and resources: 
+
+GaylenPellaz: https://youtu.be/30_aADFVL9M
+
+Scimas: "Numerical Methods for Engineers by Chapra and Canale"
+
+Mariohm1311: Numerical Recipes by William H. Press
