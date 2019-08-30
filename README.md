@@ -32,3 +32,5 @@ GaylenPellaz: https://youtu.be/30_aADFVL9M
 Scimas: "Numerical Methods for Engineers by Chapra and Canale"
 
 Mariohm1311: Numerical Recipes by William H. Press
+
+FlowFields (added 8/30 during a different stream): Suggested DICE as a CFD tool - https://www.cfd-online.com/Forums/openfoam/146796-dice-openfoam-gui-project.html
