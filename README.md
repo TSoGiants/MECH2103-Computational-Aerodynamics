@@ -17,7 +17,7 @@ Tentative outline:
 7. TBD
 8. Rocket simulation
 
-Action items:
+**Action items:**
 
 Mr. Maldonado - Draft week 1 worksheet.
 
@@ -34,3 +34,14 @@ Scimas: "Numerical Methods for Engineers by Chapra and Canale"
 Mariohm1311: Numerical Recipes by William H. Press
 
 FlowFields (added 8/30 during a different stream): Suggested DICE as a CFD tool - https://www.cfd-online.com/Forums/openfoam/146796-dice-openfoam-gui-project.html
+
+### Notes from Standing Meeting (9/6/19):
+Discussed and demonstrated CFD tool Sim-Flow. Tutorial (https://help.sim-flow.com/userguide/wing/) covers basic simulation of an airfoil with flaps. Noted that the tutorial is very barebones and doesn't cover much background information about aerodynamics or FEM simulation in general.
+
+Discussed the flow of the course. Will most likely aim to have students complete two seperate mini-projects: one focused on an airplane, the other on a rocket. This will cover two different sides of aerospace engineering while leaving room for sufficient theory.
+
+**Action items:**
+
+Dr. F - Write up lesson 1 curriculum for setting up Euler's / RK4 simulation of projectile motion.
+
+Mr. Maldonado - Write up detailed tutorial based on the Sim-Flow wing tutorial, but more in-depth. Add follow-up simulation calculating drag of a ball and incorporate results into RK4 simulation.
