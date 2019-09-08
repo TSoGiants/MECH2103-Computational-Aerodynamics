@@ -1,7 +1,7 @@
 # MECH2103-Computational-Aerodynamics
 Kepler short-course on numerical simulation of rockets and other aerodynamic systems.
 
-Development of this course is underway; you can follow our progress alternative Friday mornings at 9am CDT at www.tsog.tv. Next stream is 9/6/19.
+Development of this course is underway; you can follow our progress alternative Friday mornings at 9am CDT at www.tsog.tv. Next stream is 9/20/19.
 
 The focus of this course is to teach students the fundamentals of numerical simulation for aerodynamic systems. The scope of the course will encompass numerical techniques such as RK4, an introduction to computational fluid dynamics, and simulation of a rocket's trajectory.
 
